@@ -1,8 +1,9 @@
-.cabeçalho{
-    background-color: blueviolet;
-    color: blue;
-    padding: 25%;
-    width: 45%;
-    
-    
- }
+.cabeçalho{ 
+    color: midnightblue;
+    background-color: darkslateblue;
+    justify-content: center;
+}
+.introdução{
+    color: indigo;
+    background-color: darkblue;
+}
