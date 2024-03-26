@@ -1,7 +1,6 @@
 .cabeçalho{ 
-    color: rgb(150, 252, 255);
     background-color: rgb(52, 228, 213);
-    justify-content: center;
+    color: rgb(150, 252, 255);
     display: flex;
     justify-content: space-around;
     padding: 24px 0;
