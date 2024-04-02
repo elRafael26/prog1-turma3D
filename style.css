@@ -1,14 +1,22 @@
-.cabeçalho{ 
-    background-color: rgb(52, 228, 213);
-    color: rgb(150, 252, 255);
-    display: flex;
-    justify-content: space-around;
-    padding: 24px 0;
+* {
+   margin: 0px;
+   padding: 0px;
 }
-.paragrafo_1{
-    color: rgb(131, 206, 255);
-    background-color: rgb(42, 142, 189);
+
+.corpo_site {
+    color: white;
+    background-color: black;
 }
-.Apresentação{
-    padding: 40px; 
+
+.cabeçalho {
+    text-align: center;
+}
+
+.cabeçalho_titulo {
+    font-size: 30px;
+}
+
+.paragrafo-introdução {
+    text-align: center;
+    text-align: justify;
 }
